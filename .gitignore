@@ -5,6 +5,7 @@ __pycache__/
 .env
 outputs/
 .pyc
+secrets.txt
 
 # C extensions
 *.so
