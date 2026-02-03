@@ -2,6 +2,9 @@
 __pycache__/
 *.py[codz]
 *$py.class
+.env
+outputs/
+.pyc
 
 # C extensions
 *.so
